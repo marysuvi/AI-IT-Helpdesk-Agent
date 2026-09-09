@@ -1,0 +1,53 @@
+WIFI PROBLEM:
+
+If Wi-Fi is not connecting, first check whether Wi-Fi is enabled.
+Turn Wi-Fi off and on again.
+Forget the Wi-Fi network and reconnect using the correct password.
+Restart the router.
+Check whether other devices can connect to the same Wi-Fi.
+If other devices work but the computer does not, restart the computer and check the network adapter.
+
+
+INTERNET PROBLEM:
+
+Check whether the Wi-Fi connection is active.
+Restart the router.
+Try opening another website.
+Check whether other devices have internet access.
+If all devices have no internet, contact the Internet Service Provider.
+
+
+PRINTER PROBLEM:
+
+Check whether the printer is powered on.
+Make sure the printer is connected to the computer or network.
+Check the printer paper and ink.
+Set the correct printer as the default printer.
+Restart the printer and try printing again.
+
+
+SOUND PROBLEM:
+
+Check whether the computer is muted.
+Increase the volume.
+Check the selected audio output device.
+Reconnect headphones if they are being used.
+Restart the computer if the problem continues.
+
+
+SLOW COMPUTER:
+
+Close unnecessary applications.
+Restart the computer.
+Check available storage space.
+Remove unnecessary startup applications.
+Run a security scan.
+Keep the operating system and applications updated.
+
+
+LOGIN PROBLEM:
+
+Check the username and password.
+Make sure Caps Lock is not enabled.
+If the password is forgotten, use the official password reset option.
+Do not share passwords with anyone.

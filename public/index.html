@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>AI IT Helpdesk Agent</title>
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <div class="container">
+
+    <h1>🤖 AI IT Helpdesk Agent</h1>
+
+    <p class="subtitle">
+      Ask your IT problem and get AI-powered assistance
+    </p>
+
+    <div id="chatBox" class="chat-box">
+
+      <div class="message bot">
+        Hello! 👋
+        How can I help you with your IT problem?
+      </div>
+
+    </div>
+
+    <div class="input-area">
+
+      <input
+        type="text"
+        id="question"
+        placeholder="Example: My Wi-Fi is not connecting"
+      >
+
+      <button onclick="sendQuestion()">
+        Send
+      </button>
+
+    </div>
+
+    <div class="examples">
+
+      <button onclick="useExample('My Wi-Fi is not connecting')">
+        📶 Wi-Fi
+      </button>
+
+      <button onclick="useExample('My printer is not working')">
+        🖨️ Printer
+      </button>
+
+      <button onclick="useExample('My computer is very slow')">
+        💻 Slow PC
+      </button>
+
+      <button onclick="useExample('There is no sound on my computer')">
+        🔊 Sound
+      </button>
+
+    </div>
+
+  </div>
+
+  <script src="script.js"></script>
+
+</body>
+
+</html>
